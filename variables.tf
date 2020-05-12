@@ -1,5 +1,4 @@
 variable "domain_example" {
-  default = "buycoffee.app"
 }
 
 variable "cloudflare_email" {
